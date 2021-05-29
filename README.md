@@ -1,1 +1,8 @@
-connection with me [vk](https://vk.com/notbruto) or [tg](https://t.me/ichetiva)
+###### Начинающий Python программист
+
+### Frameworks
+- discord.py
+- vkbottle
+- aiogram
+
+###### Связаться со мной: https://t.me/ichetiva
