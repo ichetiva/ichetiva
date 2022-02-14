@@ -1,8 +1,12 @@
 ###### Начинающий Python программист
 
-### Frameworks
-- discord.py
-- vkbottle
-- aiogram
+### Stack
+- VKBottle
+- Django
+- Django ORM
+- SQLAlchemy
+- PostgreSQL
+- Redis
+- Celery
 
 ###### Связаться со мной: https://t.me/ichetiva
