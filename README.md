@@ -8,5 +8,6 @@
 ![PostgreSQL DB](https://img.shields.io/badge/PostgreSQL-DB-blue)
 ![Redis](https://img.shields.io/badge/Redis-Caching-yellow)
 ![Celery](https://img.shields.io/badge/Celery-Tasks-lightgrey)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 
 ###### Telegram: https://t.me/ichetiva
